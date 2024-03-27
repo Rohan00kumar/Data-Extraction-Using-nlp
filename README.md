@@ -60,9 +60,6 @@ The output data is saved in an Excel file (`Output.xlsx`) with the following col
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
 
-## License
-
-[Insert License Here]
 
 ## Acknowledgments
 
